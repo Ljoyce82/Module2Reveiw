@@ -1,0 +1,14 @@
+C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\bin\Debug\net8.0\GradeCalc.exe
+C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\bin\Debug\net8.0\GradeCalc.deps.json
+C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\bin\Debug\net8.0\GradeCalc.runtimeconfig.json
+C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\bin\Debug\net8.0\GradeCalc.dll
+C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\bin\Debug\net8.0\GradeCalc.pdb
+C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\obj\Debug\net8.0\GradeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\obj\Debug\net8.0\GradeCalc.AssemblyInfoInputs.cache
+C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\obj\Debug\net8.0\GradeCalc.AssemblyInfo.cs
+C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\obj\Debug\net8.0\GradeCalc.csproj.CoreCompileInputs.cache
+C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\obj\Debug\net8.0\GradeCalc.dll
+C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\obj\Debug\net8.0\refint\GradeCalc.dll
+C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\obj\Debug\net8.0\GradeCalc.pdb
+C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\obj\Debug\net8.0\GradeCalc.genruntimeconfig.cache
+C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\obj\Debug\net8.0\ref\GradeCalc.dll
