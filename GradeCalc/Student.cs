@@ -7,13 +7,21 @@ using System.Threading.Tasks;
 
 namespace GradeCalc
 {
-    public class Student
+    class Student
     {
-        string Name {  get; set; }
-        int Id { get; set; }
-        List<double> Grades { get; } = new List<double>();
+        public string Name {  get; set; }
+        public int Id { get; set; }
 
-        
+        public List<double> Grades = new List<double>();
+
+        public Student(int id, string name)//as expalined in program added for id name issue
+        {
+            Id = id;
+            Name = name;
+            Grades = new List<double>();
+        }
+
+
         public void AddGrade(double grade)
         {
             Grades.Add(grade);
