@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GradeCalc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3459bfdf8039a3baba509f3e5ccf200fa459aec3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14467f783eb543aa64db70fb48d79a956078678b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GradeCalc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GradeCalc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\obj\Debug\net8.0\refint\GradeCa
 C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\obj\Debug\net8.0\GradeCalc.pdb
 C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\obj\Debug\net8.0\GradeCalc.genruntimeconfig.cache
 C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\obj\Debug\net8.0\ref\GradeCalc.dll
+C:\Users\mytra\Desktop\repos\GradeCalc\GradeCalc\obj\Debug\net8.0\GradeCalc.sourcelink.json

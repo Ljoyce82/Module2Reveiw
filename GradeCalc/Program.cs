@@ -37,8 +37,25 @@ namespace GradeCalc
             foreach (Student student in Students)
             {
                 double averageGrade = student.CalculateAverageGrade();
-                Console.WriteLine($"{student.Id} {student.Name} Grades: {string.Join(", ", student.Grades)} Average: {averageGrade}");
+                Console.WriteLine($"{student.Id} {student.Name}'s Grades: {string.Join(", ", student.Grades)} Average: {averageGrade}");
             }
+
+            Course detention = new Course();
+            detention.CourseCode = "DT101";
+            detention.CourseName = "Detention";
+            
+            Course summerSchool = new Course();
+            summerSchool.CourseCode = "SS303";
+            summerSchool.CourseName = "Summer School";
+
+            detention.EnrollStudents("Jim");
+            detention.EnrollStudents("Billy");
+            summerSchool.EnrollStudents("Bob");
+            summerSchool.EnrollStudents("Chet");
+
+            Console.WriteLine("Course Information: ");
+            detention.DisplayCourseInfo();
+            summerSchool.DisplayCourseInfo();
         }
     }
 }
