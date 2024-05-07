@@ -15,7 +15,7 @@ namespace GradeCalc
         {
            List<Student> Students = new List<Student>();
 
-            Student Jim = new Student(1, "Jim"); ///added this cause and method in student class to get it to print names otherwise was always 0 blank grades..
+            Student Jim = new Student(1, "Jim"); ///added this cause and method in student class to get it to print names otherwise was always 0, blank, grades..
             Student Bob = new Student(2, "Bob");
             Student Billy = new Student(3, "Billy");
             Student Chet = new Student(4, "Chet");
@@ -39,7 +39,7 @@ namespace GradeCalc
                 double averageGrade = student.CalculateAverageGrade();
                 Console.WriteLine($"{student.Id} {student.Name}'s Grades: {string.Join(", ", student.Grades)} Average: {averageGrade}");
             }
-
+            //pulls course info enrolls the students
             Course detention = new Course();
             detention.CourseCode = "DT101";
             detention.CourseName = "Detention";

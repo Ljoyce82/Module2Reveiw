@@ -8,17 +8,17 @@ namespace GradeCalc
 {
     class Course
     {
-        public string CourseName { get; set; }
+        public string CourseName { get; set; } //set properties for class to use
         public string CourseCode { get; set; }
 
         private List<string> EnrolledStudents { get; set; }
 
         public Course()
         {
-            EnrolledStudents = new List<string>();
+            EnrolledStudents = new List<string>(); //list for students in each course
         }
 
-        public void EnrollStudents(string Name)
+        public void EnrollStudents(string Name) //method to enroll student
         {
             if (!EnrolledStudents.Contains(Name))
             {
@@ -31,7 +31,7 @@ namespace GradeCalc
             }
         }
 
-        public void DisplayCourseInfo()
+        public void DisplayCourseInfo() //constructor for courses
         {
             Console.WriteLine($"Course Name: {CourseName}");
             Console.WriteLine($"Course Code: {CourseCode}");
